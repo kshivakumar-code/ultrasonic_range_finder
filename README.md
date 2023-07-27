@@ -5,7 +5,7 @@ MicroProcessors and Microcontroller Project - 2nd year
 - Supervisior : Dr. Lintu rajan
 - Microprocessor and Microcontroller Laboratory
 - Department of electronics and Communication
-- November 23, 2022
+- june 23, 2022
 
 
 ## Objective
