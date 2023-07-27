@@ -1,8 +1,7 @@
-# ultrasonic_range_finder
+# ultrasonic_range_finder-Using-8051
 MicroProcessors and Microcontroller Project - 2nd year
-# Ultrasonic-Rangefinder-using-8051
 
-## Gautam Mishra
+## Kadagala Shiva Kumar
 - Supervisior : Dr. Lintu rajan
 - Microprocessor and Microcontroller Laboratory
 - Department of electronics and Communication
