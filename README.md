@@ -19,7 +19,7 @@ MicroProcessors and Microcontroller Project - 2nd year
 
 ###  Software Requirements
 - Keil Uvision 3
-- Programming language: C Language
+- Programming language: 8051 - Assembly language
 
 ## Introduction
 #### Principle of Ultrasonic Rangefinder
